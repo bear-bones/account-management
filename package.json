@@ -1,0 +1,36 @@
+{
+  "name": "account-management",
+  "packageManager": "yarn@3.2.0",
+  "description": "",
+  "version": "1.0.0",
+  "author": "James <james@thewhites.co>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bear-bones/account-management.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bear-bones/account-management/issues"
+  },
+  "homepage": "https://github.com/bear-bones/account-management#readme",
+  "main": "pages/index.js",
+  "dependencies": {
+    "next": "^12.1.0",
+    "next-app": "^0.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-next": "^12.1.0",
+    "jasmine": "^4.0.2",
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "next lint",
+    "start": "next start",
+    "test": "yarn jasmine"
+  }
+}
