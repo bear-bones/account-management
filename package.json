@@ -1,5 +1,5 @@
 {
-  "name": "account-management",
+  "name": "account-ui",
   "packageManager": "yarn@3.2.0",
   "description": "",
   "version": "1.0.0",
@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bear-bones/account-management.git"
+    "url": "git+https://github.com/bear-bones/account-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/bear-bones/account-management/issues"
+    "url": "https://github.com/bear-bones/account-ui/issues"
   },
-  "homepage": "https://github.com/bear-bones/account-management#readme",
+  "homepage": "https://github.com/bear-bones/account-ui#readme",
   "main": "pages/index.js",
   "dependencies": {
     "@emotion/react": "^11.8.2",
