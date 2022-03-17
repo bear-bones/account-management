@@ -1,7 +1,3 @@
-# other files
-.editorconfig
-.yarn/cache
-
 # Logs
 logs
 *.log

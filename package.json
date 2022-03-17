@@ -1,14 +1,10 @@
 {
   "name": "account-ui",
-  "packageManager": "yarn@3.2.0",
   "description": "",
   "version": "1.0.0",
   "author": "James <james@thewhites.co>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bear-bones/account-ui.git"
-  },
+  "repository": "git+https://github.com/bear-bones/account-ui.git",
   "bugs": {
     "url": "https://github.com/bear-bones/account-ui/issues"
   },
