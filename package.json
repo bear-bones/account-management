@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "author": "James <james@thewhites.co>",
   "license": "MIT",
-  "repository": "git+https://github.com/bear-bones/account-ui.git",
+  "repository": {
+    "type": "git",
+    "git@github.com/bear-bones/account-ui.git"
+  },
   "bugs": {
     "url": "https://github.com/bear-bones/account-ui/issues"
   },
