@@ -15,6 +15,9 @@
   "homepage": "https://github.com/bear-bones/account-management#readme",
   "main": "pages/index.js",
   "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.5.1",
     "next": "^12.1.0",
     "next-app": "^0.0.0",
     "react": "^17.0.2",
