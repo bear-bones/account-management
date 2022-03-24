@@ -1,17 +1,17 @@
 {
-  "name": "account-ui",
+  "name": "account-webapp",
   "description": "",
   "version": "1.0.0",
   "author": "James <james@thewhites.co>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "git@github.com/bear-bones/account-ui.git"
+    "git@github.com/bear-bones/account-webapp.git"
   },
   "bugs": {
-    "url": "https://github.com/bear-bones/account-ui/issues"
+    "url": "https://github.com/bear-bones/account-webapp/issues"
   },
-  "homepage": "https://github.com/bear-bones/account-ui#readme",
+  "homepage": "https://github.com/bear-bones/account-webapp#readme",
   "main": "pages/index.js",
   "dependencies": {
     "@emotion/react": "^11.8.2",
