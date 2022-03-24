@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "git@github.com/bear-bones/account-webapp.git"
+    "url": "git@github.com/bear-bones/account-webapp.git"
   },
   "bugs": {
     "url": "https://github.com/bear-bones/account-webapp/issues"
